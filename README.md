@@ -52,6 +52,7 @@ sudo apt install gradle
 gradle -v
 ```
 DOWNLOAD PEOJECT FROM GIRHUB AND GO TO THAT DIRECOTRY
+### Optional
 ```
 gradlewrapper
 ```
