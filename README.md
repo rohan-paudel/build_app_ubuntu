@@ -67,6 +67,9 @@ nano local.properties
 ```
 sdk.dir=/path/to/your/android-sdk
 ```
+```
+./gradlew assembleSampleRelease
+```
 
 
 
