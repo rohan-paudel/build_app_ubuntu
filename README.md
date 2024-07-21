@@ -45,3 +45,9 @@ source ~/.bashrc
 ```
 sdkmanager --sdk_root=$ANDROID_HOME "platform-tools" "platforms;android-34" "build-tools;34.0.0"
 ```
+```
+sudo apt install gradle
+```
+```
+gradle -v
+```
