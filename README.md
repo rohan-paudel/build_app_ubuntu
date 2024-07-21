@@ -53,5 +53,20 @@ gradle -v
 ```
 DOWNLOAD PEOJECT FROM GIRHUB AND GO TO THAT DIRECOTRY
 ```
-gradle wrapper
+gradlewrapper
 ```
+```
+chmod +x ./gradlew
+```
+```
+./gradlew clean
+```
+```
+nano local.properties
+```
+```
+sdk.dir=/path/to/your/android-sdk
+```
+
+
+
